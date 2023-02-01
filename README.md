@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafael-rodrigues95
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning connections with DB through SQLite server
+- 🌱 I’m currently learning DB connections through SQLite server
 - 💞️ I’m looking to collaborate on software programming on Web/Mobile platforms
 - 📫 You can reach me by my LinkedIn profile rafael-rodrigues95
 
